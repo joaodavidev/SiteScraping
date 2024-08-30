@@ -1,0 +1,2 @@
+abrir server -> streamlit run main.py
+abrir o VEnv -> .\chatbot\Scripts\Activate.ps1
